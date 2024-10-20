@@ -4,7 +4,7 @@ import os
 import numpy as np
 from threerra import pulses
 from qiskit import pulse
-from qiskit.tools.monitor import job_monitor
+#from qiskit.tools.monitor import job_monitor
 
 nearest_discriminator_data = np.zeros(3)
 datapath = os.path.join(os.path.dirname(__file__),

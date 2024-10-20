@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as readme:
 
 setuptools.setup(
     name='threerra',
-    version='0.0.1',
+    version='0.0.2',
     author='Jorge Gidi',
     author_email='jorgegidi@gmail.com',
     description='A Qiskit module for three-level systems',

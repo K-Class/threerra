@@ -14,6 +14,6 @@ setuptools.setup(
     url='https://github.com/jgidi/threerra',
     license='Apache Licence 2.0',
     packages=['threerra', 'threerra.discriminators'],
-    install_requires=['qiskit', 'numpy', 'scipy', 'matplotlib', 'sklearn'],
+    install_requires=['qiskit', 'numpy', 'scipy', 'matplotlib', 'scikit-learn'],
     include_package_data=True,
 )
